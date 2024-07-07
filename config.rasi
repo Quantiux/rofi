@@ -1,0 +1,10 @@
+/* Source: https://www.youtube.com/watch?v=TutfIwxSE_s */
+
+configuration {
+  display-drun: " ";
+  display-window: "Windows:";
+	font: "CaskaydiaCove Nerd Font Regular 12";
+	modi: "window,run,drun";
+}
+
+@theme "~/.config/rofi/themes/tokyonight.rasi"

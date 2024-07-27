@@ -3,8 +3,9 @@
 configuration {
   display-drun: " ";
   display-window: "Windows:";
-	font: "CaskaydiaCove Nerd Font Regular 12";
+	font: "JetBrainsMono Nerd Font SemiBold 12";
 	modi: "window,run,drun";
+	show-icons: true;
 }
 
 @theme "~/.config/rofi/themes/tokyonight.rasi"
